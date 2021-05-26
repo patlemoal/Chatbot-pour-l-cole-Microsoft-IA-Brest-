@@ -1,1 +1,1 @@
-# Chatbot-pour-l-cole-Microsoft-IA-Brest-
+# Chatbot pour l'école Microsoft IA Brest
