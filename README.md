@@ -9,7 +9,7 @@ L'objectif phare du projet est de créer un chatbot. Dans ce cas de figure, les 
 
 
 
-# Modalités pédagogiques
+## Modalités pédagogiques
 
 Le projet se fait en groupe de 4, le travail doit être répartit et doit s’effectuer en suivant la méthode SCRUM.
 
